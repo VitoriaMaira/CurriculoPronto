@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\ResumeForge.Domain\ResumeForge.Domain.csproj" />
+    <ProjectReference Include="..\ResumeForge.Application\ResumeForge.Application.csproj" />
+    <ProjectReference Include="..\ResumeForge.Contracts\ResumeForge.Contracts.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="ResumeForge.Api/ResumeForge.Api.csproj" Id="03d2e919-8b6d-4f4c-8c2b-cff76c820420" />
+    <Project Path="ResumeForge.AppHost/ResumeForge.AppHost.csproj" Id="031477c6-6459-4cb9-832b-50b047424277" />
+    <Project Path="ResumeForge.Application/ResumeForge.Application.csproj" Id="7c563d1f-8762-4632-8e8a-84399a452785" />
+    <Project Path="ResumeForge.Contracts/ResumeForge.Contracts.csproj" Id="79fb5a74-e1d9-4275-ba8c-8c6d297e3f6a" />
+    <Project Path="ResumeForge.Domain/ResumeForge.Domain.csproj" Id="770a2a91-dfc2-4fe6-90ca-454aa2feecab" />
+    <Project Path="ResumeForge.Infrastructure/ResumeForge.Infrastructure.csproj" Id="6ec061a0-da12-4cd9-bc60-f7cb7a6960c6" />
+    <Project Path="ResumeForge.ServiceDefaults/ResumeForge.ServiceDefaults.csproj" Id="387585aa-94cb-4f86-8652-f7c9cb1a4826" />
+    <Project Path="ResumeForge.Worker/ResumeForge.Worker.csproj" Id="a2ce86e5-4288-4ad6-a1bf-27614d8ad9d1" />
+  </Folder>
+</Solution>
