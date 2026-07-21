@@ -1,0 +1,39 @@
+# Compilações
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configurações locais
+*.local
+*.cache
+
+# Logs
+*.log
+
+# Testes e cobertura
+TestResults/
+coverage/
+coverage.*
+
+# Pacotes NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
