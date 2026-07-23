@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-ResumeForge.Worker-73a2ba6d-75e7-4d2e-8e7b-a0bce185d210</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ResumeForge.Application\CurriculoPronto.Application.csproj" />
+    <ProjectReference Include="..\ResumeForge.Infrastructure\CurriculoPronto.Infrastructure.csproj" />
+    <ProjectReference Include="..\ResumeForge.Contracts\CurriculoPronto.Contracts.csproj" />
+    <ProjectReference Include="..\ResumeForge.ServiceDefaults\CurriculoPronto.ServiceDefaults.csproj" />
+  </ItemGroup>
+</Project>

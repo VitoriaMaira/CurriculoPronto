@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\ResumeForge.Domain\ResumeForge.Domain.csproj" />
-    <ProjectReference Include="..\ResumeForge.Contracts\ResumeForge.Contracts.csproj" />
+    <ProjectReference Include="..\ResumeForge.Domain\CurriculoPronto.Domain.csproj" />
+    <ProjectReference Include="..\ResumeForge.Contracts\CurriculoPronto.Contracts.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

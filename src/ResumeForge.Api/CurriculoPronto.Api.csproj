@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ResumeForge.Application\CurriculoPronto.Application.csproj" />
+    <ProjectReference Include="..\ResumeForge.Infrastructure\CurriculoPronto.Infrastructure.csproj" />
+    <ProjectReference Include="..\ResumeForge.Contracts\CurriculoPronto.Contracts.csproj" />
+    <ProjectReference Include="..\ResumeForge.ServiceDefaults\CurriculoPronto.ServiceDefaults.csproj" />
+  </ItemGroup>
+
+</Project>

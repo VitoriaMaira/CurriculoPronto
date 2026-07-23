@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ResumeForge.Api/CurriculoPronto.Api.csproj" />
+    <Project Path="src/ResumeForge.AppHost/CurriculoPronto.AppHost.csproj" />
+    <Project Path="src/ResumeForge.Application/CurriculoPronto.Application.csproj" />
+    <Project Path="src/ResumeForge.Contracts/CurriculoPronto.Contracts.csproj" />
+    <Project Path="src/ResumeForge.Domain/CurriculoPronto.Domain.csproj" />
+    <Project Path="src/ResumeForge.Infrastructure/CurriculoPronto.Infrastructure.csproj" />
+    <Project Path="src/ResumeForge.ServiceDefaults/CurriculoPronto.ServiceDefaults.csproj" />
+    <Project Path="src/ResumeForge.Worker/CurriculoPronto.Worker.csproj" />
+  </Folder>
+</Solution>

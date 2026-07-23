@@ -1,8 +1,8 @@
 <Project Sdk="Aspire.AppHost.Sdk/13.2.4">
 
   <ItemGroup>
-    <ProjectReference Include="..\ResumeForge.Api\ResumeForge.Api.csproj" />
-    <ProjectReference Include="..\ResumeForge.Worker\ResumeForge.Worker.csproj" />
+    <ProjectReference Include="..\ResumeForge.Api\CurriculoPronto.Api.csproj" />
+    <ProjectReference Include="..\ResumeForge.Worker\CurriculoPronto.Worker.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
